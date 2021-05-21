@@ -1,0 +1,1 @@
+Go to 1_README_FIRST.md first
